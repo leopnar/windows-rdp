@@ -6,5 +6,5 @@ jobs:
       - uses: NyaMisty/reverse-rdp-windows-github-actions-ng@master
         with:
           ngrok-token: ${{ secrets.NGROK_TOKEN }}
-          password: "qwerty12345"
+          password: "Qwerty120998777726255"
 
